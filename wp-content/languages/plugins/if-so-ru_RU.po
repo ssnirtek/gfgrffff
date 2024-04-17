@@ -1,0 +1,1062 @@
+# Translation of Plugins - If-So Dynamic Content Personalization - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - If-So Dynamic Content Personalization - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-26 18:55:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - If-So Dynamic Content Personalization - Stable (latest release)\n"
+
+#: admin/partials/ifso_analytics_display_metabox.php:128
+msgid "Paste the shortcode into your conversion page. Conversions will be assigned to the last version a visitor has seen."
+msgstr "Вставьте шорткод на страницу конверсии. Конверсии будут назначены последней версии, которую увидел посетитель."
+
+#: admin/partials/ifso_analytics_display_metabox.php:128
+msgid "Advanced Options"
+msgstr "Расширенные настройки"
+
+#: admin/partials/ifso_analytics_display_metabox.php:152
+msgid "Views"
+msgstr "Представления"
+
+#: admin/partials/ifso_analytics_display_metabox.php:152
+msgid "Conversions"
+msgstr "Конверсии"
+
+#: admin/partials/ifso_analytics_display_metabox.php:152
+msgid "Conv. rate"
+msgstr "Коэфф. конверсии"
+
+#: admin/partials/ifso_analytics_display_metabox.php:172
+msgid "Are you sure you want to reset this trigger stats?"
+msgstr "Вы уверены, что хотите сбросить статистику этого триггера?"
+
+#: admin/partials/ifso_analytics_display_metabox.php:180
+msgid "Are you sure you want to reset this version stats?"
+msgstr "Вы уверены, что хотите сбросить статистику этой версии?"
+
+#: admin/partials/ifso_geo_page_display.php:735
+msgid "Make sure emails don’t go to spam."
+msgstr "Убедитесь, что письма не попадают в спам"
+
+#: admin/partials/ifso_geo_page_display.php:735
+msgid "Send a test email."
+msgstr "Отправить проверочное письмо."
+
+#: admin/partials/ifso_geo_page_display.php:750
+msgid "<p class=\"ifso-settings_paragraph\">The geolocation service is limited to 250 monthly <span title=\"A session is defined as beginning when a visitor first visits a page with a geolocation trigger and ends when a visitor closes the browser, the user ip is changed, or after 25 minutes of inactivity.\" class=\"tm-tip ifso_tooltip line-tooltip\">sessions</span>  with the free version and 1,000 monthly sessions for the duration of one year with the pro version.  <a class=\"buy-more-credits-link\" href=\" https://www.if-so.com/plans/geolocation-plans/?utm_source=Plugin&utm_medium=message&utm_campaign=geolocation&utm_term=info-top&utm_content=a\" target=\"_blank\">Click here</a> for additional options if your website handles a larger amount.</p>"
+msgstr "<p class=\"ifso-settings_paragraph\">Геолокация ограничена 250 <span title=\"Сеанс определяется как начавшийся, когда посетитель впервые посещает страницу с триггером геолокации, и заканчивается, когда посетитель закрывает браузер или через 25 минут.\" class=\"tm-tip ifso_tooltip line-tooltip\">сессиями</span> в месяц в бесплатной версии и 1000 сессий в месяц в течение года в профессиональной версии. <a class=\"buy-more-credits-link\" href=\" https://www.if-so.com/plans/geolocation-plans/?utm_source=Plugin&utm_medium=message&utm_campaign=geolocation&utm_term=info-top&utm_content=a\" target=\"_blank\">Нажмите</a> для выбора опций, если вам нужно больше.</p>"
+
+#: admin/partials/ifso_geo_page_display.php:841
+msgid "Your Subscriptions"
+msgstr "Ваша подписка"
+
+#: admin/partials/ifso_geo_page_display.php:801
+#: admin/partials/ifso_geo_page_display.php:849
+msgid "Upgrade"
+msgstr "Увеличить"
+
+#: admin/partials/ifso_license_page_display.php:115
+msgid "Geolocation License"
+msgstr "Лицензия Геолокации"
+
+#: admin/partials/ifso_license_page_display.php:171
+msgid "Your Geolocation License is Activated."
+msgstr "Ваша лицензия Геолокации активирована."
+
+#: admin/partials/ifso_license_page_display.php:106
+msgid "<strong>Thank you for using If-So Dynamic Content!</strong> Please feel free to contact our team with any questions you may have."
+msgstr "<strong>Спасибо за использование If> So динамическое содержимое!</strong> Пожалуйста, свободно обращайтесь к нашей команде по любым возникающим вопросам."
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1050
+msgid "Learn more"
+msgstr "Узнать больше"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:895
+msgid "Dynamic content at the city level might not be 100% accurate."
+msgstr "Динамическое содержимое на уровне города может быть не на 100% точным."
+
+#: admin/partials/ifso_trigger_settings_metabox.php:895
+msgid "Read more"
+msgstr "Узнать больше"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:951
+msgid "This condition is based on the local time of your site"
+msgstr "Это условие зависит от часового пояса вашего сайта"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:944
+#: admin/partials/ifso_trigger_settings_metabox.php:951
+msgid "edit"
+msgstr "изменить"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1248
+msgid "This field is case-sensitive"
+msgstr "Это поле чувствительно к регистру"
+
+#: admin/services/interface-modifier-service/interface-mod.class.php:27
+msgid "Add title (optional)"
+msgstr "Добавить заголовок (необязательно)"
+
+#: admin/services/interface-modifier-service/interface-mod.class.php:36
+msgid "Export this trigger"
+msgstr "Экспортировать этот триггер"
+
+#: admin/services/interface-modifier-service/interface-mod.class.php:36
+msgid "Export"
+msgstr "Экспортировать"
+
+#: admin/services/interface-modifier-service/interface-mod.class.php:162
+msgid "Import  trigger"
+msgstr "Импортировать триггер"
+
+#: admin/services/interface-modifier-service/interface-mod.class.php:171
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: services/license-service/geo-license-service.class.php:129
+msgid "A free trial license has already been used for this domain. !!!LINKSTART!!!https://www.if-so.com/plans/geolocation-plans?ifso=pro&utm_source=Plugin&utm_medium=TrialEnded&utm_campaign=LicensePage!!!LINKEND!!!!!!LINKTEXT!!!Click here to get a pro license.!!!LINKTEXTEND!!!"
+msgstr "Бесплатная пробная лицензия уже использовалась для этого домена. !!!LINKSTART!!!https://www.if-so.com/plans/geolocation-plans?ifso=pro&utm_source=Plugin&utm_medium=TrialEnded&utm_campaign=LicensePage!!!LINKEND!!!!!!LINKTEXT!!!Нажмите, чтобы получить профессиональную лицензию.!!!LINKTEXTEND!!!"
+
+#: services/license-service/geo-license-service.class.php:125
+msgid "This license key is currently active in another domain. !!!LINKSTART!!!https://www.if-so.com/plans/geolocation-plans?ifso=pro&utm_source=Plugin&utm_medium=LicenseErrors&utm_campaign=LicenseAlreadyActive!!!LINKEND!!!!!!LINKTEXT!!!Click here to get a new license!!!LINKTEXTEND!!!"
+msgstr "Этот лицензионный ключ уже активен на другом домене. !!!LINKSTART!!!https://www.if-so.com/plans/geolocation-plans?ifso=pro&utm_source=Plugin&utm_medium=LicenseErrors&utm_campaign=LicenseAlreadyActive!!!LINKEND!!!!!!LINKTEXT!!!Нажмите, чтобы получить новую лицензию!!!LINKTEXTEND"
+
+#: services/license-service/geo-license-service.class.php:102
+msgid "Your license key has expired. !!!LINKSTART!!!https://www.if-so.com/plans/geolocation-plans?utm_source=Plugin&utm_medium=direct&utm_campaign=licenseExpired&utm_term=LicensePage&utm_content=a!!!LINKEND!!!!!!LINKTEXT!!!Click here to get a new license!!!LINKTEXTEND!!!"
+msgstr "Срок действия вашего лицензионного ключа истек. !!!LINKSTART!!!https://www.if-so.com/plans/geolocation-plans?utm_source=Plugin&utm_medium=direct&utm_campaign=licenseExpired&utm_term=LicensePage&utm_content=a!!!LINKEND!!!!!!LINKTEXT!!!Нажмите, чтобы получить новую лицензию!!!LINKTEXTEND!!!"
+
+#: services/license-service/license-service.class.php:129
+msgid "A free trial license has already been used for this domain. !!!LINKSTART!!!http://www.if-so.com/plans?ifso=pro&utm_source=Plugin&utm_medium=TrialEnded&utm_campaign=LicensePage!!!LINKEND!!!!!!LINKTEXT!!!Click here to get a pro license.!!!LINKTEXTEND!!!"
+msgstr "Бесплатная пробная лицензия уже использовалась для этого домена. !!!LINKSTART!!!http://www.if-so.com/plans?ifso=pro&utm_source=Plugin&utm_medium=TrialEnded&utm_campaign=LicensePage!!!LINKEND!!!!!!LINKTEXT!!!Нажмите, чтобы получить профессиональную лицензию.!!!LINKTEXTEND!!!"
+
+#: services/license-service/license-service.class.php:125
+msgid "This license key is currently active in another domain. !!!LINKSTART!!!http://www.if-so.com/plans?ifso=pro&utm_source=Plugin&utm_medium=LicenseErrors&utm_campaign=LicenseAlreadyActive!!!LINKEND!!!!!!LINKTEXT!!!Click here to get a new license!!!LINKTEXTEND!!!"
+msgstr "Этот лицензионный ключ уже активен на другом домене. !!!LINKSTART!!!http://www.if-so.com/plans?ifso=pro&utm_source=Plugin&utm_medium=LicenseErrors&utm_campaign=LicenseAlreadyActive!!!LINKEND!!!!!!LINKTEXT!!!Нажмите, чтобы получить новую лицензию!!!LINKTEXTEND!!!"
+
+#: services/license-service/license-service.class.php:102
+msgid "Your license key has expired. !!!LINKSTART!!!https://www.if-so.com/plans?utm_source=Plugin&utm_medium=direct&utm_campaign=licenseExpired&utm_term=LicensePage&utm_content=a!!!LINKEND!!!!!!LINKTEXT!!!Click here to get a new license!!!LINKTEXTEND!!!"
+msgstr "Срок действия вашего лицензионного ключа истек. !!!LINKSTART!!!https://www.if-so.com/plans?utm_source=Plugin&utm_medium=direct&utm_campaign=licenseExpired&utm_term=LicensePage&utm_content=a!!!LINKEND!!!!!!LINKTEXT!!!Нажмите, чтобы получить новую лицензию!!!LINKTEXTEND!!!"
+
+#: admin/class-if-so-settings.php:380
+#: extensions/ifso-elementor-element/widgets/ifso_dynamic_widget.php:152
+msgid "Analytics"
+msgstr "Аналитика"
+
+#: admin/partials/ifso_analytics_display_metabox.php:125
+msgid "Set up a conversion"
+msgstr "Настроить конверсию"
+
+#: admin/partials/ifso_settings_page_display.php:201
+msgid "ANALYTICS"
+msgstr "АНАЛИТИКА"
+
+#: admin/partials/ifso_settings_page_display.php:206
+msgid "Disable analytics"
+msgstr "Отключить аналитику"
+
+#: admin/partials/ifso_settings_page_display.php:216
+msgid "Check this box to disable statistics collection."
+msgstr "Установите флажок, чтобы отключить сбор статистики"
+
+#: admin/partials/ifso_settings_page_display.php:221
+msgid "Use Ajax for analytics calls"
+msgstr "Использовать Ajax для запросов аналитики"
+
+#: admin/partials/ifso_settings_page_display.php:271
+msgid "PAGES VISITED CONDITION"
+msgstr "УСЛОВИЕ ПОСЕЩËННЫЕ СТРАНИЦЫ"
+
+#: admin/partials/ifso_shortcode_display_metabox.php:11
+msgid "Paste this shortcode to display the trigger"
+msgstr "Вставьте этот шорткод для отображения триггера"
+
+#: admin/partials/ifso_analytics_display_metabox.php:123
+#: extensions/ifso-elementor-element/widgets/ifso_dynamic_widget.php:277
+msgid "Loading stats..."
+msgstr "Загружаем статистику..."
+
+#: admin/partials/ifso_analytics_display_metabox.php:211
+#: extensions/ifso-elementor-element/widgets/ifso_dynamic_widget.php:281
+msgid "Statistics will be available after you publish"
+msgstr "Статистика будет доступна после публикации"
+
+#: admin/services/interface-modifier-service/interface-mod.class.php:187
+msgid "Trigger imported successfully"
+msgstr "Триггер успешно импортирован"
+
+#: admin/services/interface-modifier-service/interface-mod.class.php:194
+msgid "Failed at importing trigger"
+msgstr "Не удалось импортировать триггер"
+
+#: admin/partials/ifso_geo_page_display.php:160
+msgid "Enter a Geolocation License to gain extra sessions. "
+msgstr "Введите лицензию геолокации, чтобы получить дополнительные сессии."
+
+#: admin/partials/ifso_geo_page_display.php:160
+msgid "Click here to get a Geolocation license key"
+msgstr "Нажмите, чтобы получить лицензию Геолокации"
+
+#: admin/partials/ifso_geo_page_display.php:590
+msgid "If-So Dynamic Content | Geolocation"
+msgstr "If-So Динамическое содержимое | Геолокация"
+
+#: admin/partials/ifso_geo_page_display.php:593
+msgid "Info"
+msgstr "Информация"
+
+#: admin/partials/ifso_geo_page_display.php:594
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: admin/partials/ifso_geo_page_display.php:701
+msgid "Send Email Alerts"
+msgstr "Отправлять уведомления по Email"
+
+#: admin/partials/ifso_geo_page_display.php:705
+msgid "Check this box if you would like to be notified regarding your quota threshold"
+msgstr "Установите флажок, если хотите получать уведомления о достижении порога сессий"
+
+#: admin/partials/ifso_geo_page_display.php:710
+msgid "Quota Threshold"
+msgstr "Порог использования"
+
+#: admin/partials/ifso_geo_page_display.php:713
+msgid "Receive an email alert when quota reaches 75%"
+msgstr "Отправить уведомление как только порог использования достигнет 75%"
+
+#: admin/partials/ifso_geo_page_display.php:714
+msgid "Receive an email alert when quota reaches 90%"
+msgstr "Отправить уведомление как только порог использования достигнет 90%"
+
+#: admin/partials/ifso_geo_page_display.php:715
+msgid "Receive an email alert when quota reaches 100%"
+msgstr "Отправить уведомление как только порог использования достигнет 100%"
+
+#: admin/partials/ifso_geo_page_display.php:726
+msgid "Email"
+msgstr "Email"
+
+#: admin/partials/ifso_settings_page_display.php:87
+msgid "GENERAL"
+msgstr "ОСНОВНЫЕ"
+
+#: admin/partials/ifso_settings_page_display.php:276
+msgid "Deactivate \"Pages Visited\" Cookie"
+msgstr "Отключить cookie \"Посещённых страниц\""
+
+#: admin/partials/ifso_settings_page_display.php:285
+msgid "The “Pages Visited” condition relies on this cookie. Check this box if you are not using or planning to use the condition."
+msgstr "Условие \"Посещённые страницы\" зависит от cookie. Установите флажок, если вы не используете или не планируете использовать это условие."
+
+#: admin/partials/ifso_settings_page_display.php:321
+msgid "Disable Cache On..."
+msgstr "Отключить кэш на..."
+
+#: admin/partials/ifso_settings_page_display.php:330
+msgid "Check this box to disable cache on..."
+msgstr "Установите флажок, чтобы отключить кэш..."
+
+#: admin/partials/ifso_shortcode_display_metabox.php:59
+msgid "Publish to get the shortcode"
+msgstr "Опубликуйте, чтобы получить шорткод"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:504
+msgid "UTM"
+msgstr "UTM"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:964
+msgid "User is logged in"
+msgstr "Пользователь авторизован"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1167
+msgid "Google Ads"
+msgstr "Google Ads"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1174
+msgid "Query name"
+msgstr "Название запроса"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1229
+msgid "source"
+msgstr "source"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1230
+msgid "medium"
+msgstr "medium"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1231
+msgid "campaign"
+msgstr "campaign"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1232
+msgid "term"
+msgstr "term"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1233
+msgid "content"
+msgstr "content"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:744
+#: admin/partials/ifso_trigger_settings_metabox.php:1087
+#: admin/partials/ifso_trigger_settings_metabox.php:1110
+#: admin/partials/ifso_trigger_settings_metabox.php:1238
+#: admin/partials/ifso_trigger_settings_metabox.php:1294
+#: admin/partials/ifso_trigger_settings_metabox.php:1345
+#: admin/partials/ifso_trigger_settings_metabox.php:1375
+msgid "Is"
+msgstr "Равно"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1239
+msgid "Contains"
+msgstr "Содержит"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:745
+#: admin/partials/ifso_trigger_settings_metabox.php:1088
+#: admin/partials/ifso_trigger_settings_metabox.php:1240
+#: admin/partials/ifso_trigger_settings_metabox.php:1346
+#: admin/partials/ifso_trigger_settings_metabox.php:1376
+msgid "Is Not"
+msgstr "Не равно"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1245
+msgid "UTM tag value"
+msgstr "Значение UTM метки"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1612
+#: admin/partials/ifso_trigger_settings_metabox.php:1745
+msgid "Another version is forced to be displayed"
+msgstr "Уже отображается другая версия"
+
+#: services/license-ajax-service/license-ajax-service.class.php:112
+#: services/license-ajax-service/license-ajax-service.class.php:138
+msgid "Activate your license key to unlock the full power of If-So. Don`t have a license? Click here to get one."
+msgstr "Активируйте лицензионный ключ, чтобы разблокировать всю мощь If-So. Нет лицензии? Нажмите, чтобы получить."
+
+#: services/license-ajax-service/license-ajax-service.class.php:158
+msgid " Click here to renew the license"
+msgstr "Нажмите здесь, чтобы продлить лицензию"
+
+#: services/license-ajax-service/license-ajax-service.class.php:162
+#: services/license-ajax-service/license-ajax-service.class.php:166
+msgid "Activate your license key to unlock all features. "
+msgstr "Активируйте лицензионный ключ, чтобы разблокировать все функции."
+
+#: extensions/privacy-policy/privacy-policy.php:8
+msgid ""
+"While it is your responsibility to publish a privacy policy abiding by all relevant data protection laws, at If-So we’re happy to provide you with some guidance on adjustments to make, upon installing our dynamic content. <br /> <br />\n"
+"            We recommend you to adjust your privacy policy, for added transparency, to reflect that:<br /> <br />\n"
+"            We collect connectivity, technical and aggregated usage data as part of the provision of our Services. This includes data such as IP addresses, non-identifying data regarding a device, operating system, browser version, locale and language settings, the cookies and pixels installed on such device, session logging, referring or exit pages, and date/time stamps, and the activity (clicks, browsing, and other interactions).\n"
+"            <br /><br /> We collect such data in order to provide you with our services and to further develop, customize and improve the services.\n"
+"            <br /><br /> We use cookies to process your users’ connectivity, including data such as pages visited within the website, IP addresses, content on the website that has been interacted with by the user and the number of times pages have been visited. <br />\n"
+"            "
+msgstr ""
+"Хотя вы несете ответственность за публикацию политики конфиденциальности, соблюдая все соответствующие законы о защите данных, If-So рада предоставить вам некоторые рекомендации по внесению изменений при установке нашего динамического содержимого.<br /> <br />\n"
+"            Мы рекомендуем вам изменить свою политику конфиденциальности, для большей прозрачности, чтобы отразить:<br /> <br />\n"
+"            Мы собираем данные о подключении, технических и совокупных данных об использовании в рамках предоставления наших Услуг. Сюда входят такие данные, как IP-адреса, обезличенные данные об устройстве, операционной системе, версии браузера, языковых и региональных настройках, файлы cookie и пиксели, установленные на таком устройстве, ведём журнал сессии, страницы входа или выхода, а также отметки даты/времени, и активности (клики, просмотры и другие взаимодействия).\n"
+"            <br /><br /> Мы собираем эти данные, чтобы предоставлять вам наши услуги, а также для развития, отладки и улучшения сервисов.\n"
+"            <br /><br /> Мы используем файлы cookie для обработки подключения ваших пользователей, включая такие данные, как посещённые страницы, IP-адреса, содержимое сайта, с которым пользователь взаимодействовал, и количество посещений страниц. <br />"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1146
+msgid "Type an IP Address"
+msgstr "Введите IP-адрес"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:427
+msgid "Draggable"
+msgstr "Перетаскиваемый"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:409
+msgid "Delete"
+msgstr "Удалить"
+
+#: services/license-ajax-service/license-ajax-service.class.php:102
+msgid "CONTINUE"
+msgstr "ПРОДОЛЖИТЬ"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:414
+#: admin/partials/ifso_trigger_settings_metabox.php:418
+msgid "Activate/Deactivate"
+msgstr "Активировать/Деактивировать"
+
+#: services/license-ajax-service/license-ajax-service.class.php:128
+msgid "CONTINUE >>"
+msgstr "ПРОДОЛЖИТЬ  >>"
+
+#: admin/partials/ifso_geo_page_display.php:740
+#: admin/partials/ifso_settings_page_display.php:513
+msgid "Save"
+msgstr "Сохранить"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1143
+msgid "IP Does Not Contain"
+msgstr "IP не содержит"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1142
+msgid "IP Is Not"
+msgstr "IP не"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1141
+msgid "IP Contains"
+msgstr "IP содержит"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1140
+msgid "IP Is"
+msgstr "IP равно"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:500
+msgid "User IP"
+msgstr "IP пользователя"
+
+#: services/license-ajax-service/license-ajax-service.class.php:46
+msgid "Your license key expired on %s. "
+msgstr "Срок действия вашего лицензионного ключа истек %s."
+
+#: admin/partials/ifso_settings_page_display.php:336
+msgid "Allow fragmented cache"
+msgstr "Разрешить фрагментированный кеш"
+
+#: admin/partials/ifso_settings_page_display.php:345
+msgid "FILL BY ASAF"
+msgstr "FILL BY ASAF"
+
+#: admin/partials/ifso_settings_page_display.php:290
+msgid "“Pages visited” tracking time"
+msgstr "Время отслеживания \"Посещённых страниц\""
+
+#: admin/partials/ifso_settings_page_display.php:316
+msgid "The lifespan of the 'Pages Visited' condition cookie. Dynamic content will be displayed if a visitor has previously visited the selected pages during this time period."
+msgstr "Срок действия условного cookie \"Посещённых страниц\". Динамическое содержимое будет отображаться, если посетитель ранее заходил на выбранные страницы в этот период времени."
+
+#: admin/partials/ifso_geo_page_display.php:782
+msgid "Monthly Sessions"
+msgstr "сессий в месяц"
+
+#: extensions/ifso-elementor-element/widgets/ifso_dynamic_widget.php:355
+#: extensions/ifso-elementor-element/widgets/ifso_dynamic_widget.php:357
+msgid "Sessions"
+msgstr "сессиями"
+
+#: admin/partials/ifso_settings_page_display.php:240
+msgid "Click here"
+msgstr "Нажмите"
+
+#: admin/partials/ifso_helper_metabox.php:14
+msgid "How to create a trigger"
+msgstr "Как создать триггер"
+
+#: admin/partials/ifso_settings_page_display.php:303
+msgid "Hours"
+msgstr "Часы"
+
+#: admin/class-if-so-settings.php:235 admin/class-if-so-settings.php:236
+#: admin/partials/ifso_license_page_display.php:33
+msgid "License"
+msgstr "Лицензия"
+
+#: admin/class-if-so-settings.php:226 admin/class-if-so-settings.php:227
+#: extensions/ifso-elementor-element/widgets/ifso_dynamic_widget.php:39
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/partials/ifso_license_page_display.php:93
+msgid "Your license is Lifetime."
+msgstr "У вас Пожизненная лицензия."
+
+#: services/license-ajax-service/license-ajax-service.class.php:162
+#: services/license-ajax-service/license-ajax-service.class.php:166
+msgid "Click here to get a license key if you do not have one"
+msgstr "Нажмите здесь, чтобы получить лицензионный ключ, если у вас его нет"
+
+#: admin/partials/ifso_settings_page_display.php:141
+msgid "Apply “the_content” filter"
+msgstr "Применить фильтр “the_content”"
+
+#: admin/partials/ifso_settings_page_display.php:156
+msgid "Remove wrapping Paragraph Tags"
+msgstr "Удалить обёртку в теги параграфа"
+
+#: admin/partials/ifso_settings_page_display.php:171
+msgid "Remove data on uninstall"
+msgstr "Удалить данные при удалении"
+
+#: services/license-ajax-service/license-ajax-service.class.php:100
+#: services/license-ajax-service/license-ajax-service.class.php:126
+msgid "This condition is only available upon license activation. Click here to get a free license if you do not have one."
+msgstr "Это условие доступно только при активации лицензии. Нажмите здесь, чтобы получить бесплатную лицензию, если у вас её нет."
+
+#: services/license-ajax-service/license-ajax-service.class.php:77
+msgid "UNLOCK ALL FEATURES"
+msgstr "РАЗБЛОКИРОВАТЬ ВСЕ ВОЗМОЖНОСТИ"
+
+#: services/license-ajax-service/license-ajax-service.class.php:89
+msgid "GET A LICENSE KEY"
+msgstr "ПОЛУЧИТЬ ЛИЦЕНЗИЮ"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:387
+msgid "Select a condition. The content will be displayed only if it is met"
+msgstr "Выберите условие. Содержимое будет отображаться только в случае, если оно выполнено"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:390
+msgid "Select a condition. The content will be displayed only if it is met and if version A is not realized"
+msgstr "Выберите условие. Содержимое будет отображаться только в случае, если оно выполнено, и если не указан вариант A"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:395
+msgid "Select a condition. The content will be displayed only if it is met and if versions A-"
+msgstr "Выберите условие. Содержимое будет отображаться только в случае, если оно выполнено, и если вариант A-"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:407
+#: admin/services/interface-modifier-service/interface-mod.class.php:204
+#: extensions/ifso-elementor-element/widgets/ifso_dynamic_widget.php:16
+msgid "Dynamic Content"
+msgstr "Динамическое содержимое"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:474
+msgid "Advertising Platforms"
+msgstr "Рекламные платформы"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:477
+msgid "Dynamic Link"
+msgstr "Динамическая ссылка"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:491
+msgid "Pages Visited"
+msgstr "Страниц посещено"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:555
+msgid "Limit"
+msgstr "Ограничение"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:593
+msgid "Press a column > drag > click again"
+msgstr "Нажмите на колонку > перетащите > нажмите ещё раз"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:607
+msgid "#schedule-"
+msgstr "#расписание-"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1465
+msgid "Always"
+msgstr "Всегда"
+
+#: admin/partials/ifso_settings_page_display.php:306
+#: admin/partials/ifso_trigger_settings_metabox.php:1337
+#: admin/partials/ifso_trigger_settings_metabox.php:1481
+msgid "Days"
+msgstr "Дни"
+
+#: admin/partials/ifso_settings_page_display.php:309
+#: admin/partials/ifso_trigger_settings_metabox.php:1482
+msgid "Weeks"
+msgstr "Недели"
+
+#: admin/partials/ifso_settings_page_display.php:312
+#: admin/partials/ifso_trigger_settings_metabox.php:1483
+msgid "Months"
+msgstr "Месяцы"
+
+#: admin/partials/ifso_settings_page_display.php:300
+#: admin/partials/ifso_trigger_settings_metabox.php:1484
+msgid "Minutes"
+msgstr "Минуты"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1584
+#: admin/partials/ifso_trigger_settings_metabox.php:1594
+#: admin/partials/ifso_trigger_settings_metabox.php:1612
+#: admin/partials/ifso_trigger_settings_metabox.php:1745
+msgid "Testing Mode"
+msgstr "Режим тестирования"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1619
+msgid "Version is inactive"
+msgstr "Версия неактивна"
+
+#: services/license-ajax-service/license-ajax-service.class.php:114
+#: services/license-ajax-service/license-ajax-service.class.php:140
+msgid "START YOUR FREE TRIAL"
+msgstr "НАЧАТЬ ПРОБНЫЙ ПЕРИОД"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:551
+msgid "100% (control group)"
+msgstr "100% (контрольная группа)"
+
+#: admin/partials/ifso_settings_page_display.php:151
+msgid "Check this box if you are using a third party content editor and encounter bugs."
+msgstr "Отметьте, если используете сторонний редактор содержимого и сталкиваетесь с ошибками."
+
+#: admin/partials/ifso_settings_page_display.php:76
+msgid "If-So Dynamic Content | Settings"
+msgstr "If-So динамическое содержимое | Настройки"
+
+#: admin/partials/ifso_settings_page_display.php:165
+msgid "Check this box to prevent WordPress from wrapping If-So shortcodes with &lt;p&gt; tags."
+msgstr "Установите флажок, чтобы WordPress не оборачивал шорткоды If-So в теги &lt;p&gt;."
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1133
+#: admin/partials/ifso_trigger_settings_metabox.php:1400
+msgid "Value"
+msgstr "Значение"
+
+#. Plugin Name of the plugin
+#: if-so.php admin/class-if-so-settings.php:181
+msgid "If-So"
+msgstr "If-So"
+
+#: admin/class-if-so-settings.php:390
+msgid "Need Help?"
+msgstr "Нужна помощь?"
+
+#: admin/partials/ifso_shortcode_display_metabox.php:33
+msgid "PHP code (for developers)"
+msgstr "PHP код (для разработчиков)"
+
+#: services/license-service/geo-license-service.class.php:111
+#: services/license-service/license-service.class.php:111
+msgid "Invalid license key."
+msgstr "Неверный лицензионный ключ."
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1077
+msgid "Select page"
+msgstr "Выберите страницу"
+
+#: admin/class-if-so-settings.php:209 admin/class-if-so-settings.php:210
+#: admin/partials/ifso_trigger_settings_metabox.php:487
+msgid "Geolocation"
+msgstr "Геолокация"
+
+#: services/license-service/geo-license-service.class.php:122
+#: services/license-service/license-service.class.php:122
+msgid "The license key is invalid for this version of the plugin. Make sure you have updated the plugin. If the problem persists, please contact us at support@if-so.com."
+msgstr "Лицензионный ключ недействителен для этой версии плагина. Убедитесь, что вы обновили его. Если проблема осталась, свяжитесь с нами support@if-so.com."
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1757
+msgid "Finished"
+msgstr "Закончили"
+
+#: admin/class-if-so-admin.php:210
+msgid "This query string is already in use with the current trigger."
+msgstr "Строка запроса уже используется в текущем триггере."
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1758
+msgid "Press publish to receive a shortcode to use on your website."
+msgstr "Нажмите опубликовать, чтобы получить шорткод для использования на сайте."
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1179
+msgid "Paste the following string into the \"tracking template\" field (in Adwords)"
+msgstr "Вставьте эту строку в поле \"Шаблон отслеживания\" (в AdWords)"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1182
+msgid "Paste this string into the \"URL parameters\" field (in the ad editing section on Facebook)"
+msgstr "Вставьте эту строку в поле \"Параметры URL\" (в разделе редактирования рекламы Facebook)"
+
+#. Description of the plugin
+#: if-so.php
+msgid "Display different content to different visitors. Simple to use, just select a condition and set content accordingly."
+msgstr "Показывайте разное содержимое разным пользователям. Прост в использовании, достаточно выбрать условие и настроить содержимое."
+
+#: services/license-service/geo-license-service.class.php:118
+#: services/license-service/license-service.class.php:118
+msgid "This appears to be an invalid license key for the selected item."
+msgstr "Похоже, что это неверный лицензионный ключ для выбранной позиции."
+
+#: services/license-service/geo-license-service.class.php:115
+#: services/license-service/license-service.class.php:115
+msgid "Your license is not active for this URL."
+msgstr "Ваша лицензия неактивна для этого URL."
+
+#: services/license-service/geo-license-service.class.php:108
+#: services/license-service/license-service.class.php:108
+msgid "The license key has been disabled."
+msgstr "Лицензионный ключ отключен."
+
+#: admin/partials/ifso_license_page_display.php:83
+#: admin/partials/ifso_license_page_display.php:158
+msgid "Deactivate License"
+msgstr "Деактивировать лицензию"
+
+#: admin/partials/ifso_license_page_display.php:78
+#: admin/partials/ifso_license_page_display.php:86
+#: admin/partials/ifso_license_page_display.php:153
+#: admin/partials/ifso_license_page_display.php:161
+msgid "Activate License"
+msgstr "Активировать лицензию"
+
+#: admin/partials/ifso_license_page_display.php:142
+msgid "Enter your license key"
+msgstr "Введите лицензионный ключ"
+
+#: admin/partials/ifso_license_page_display.php:48
+#: admin/partials/ifso_license_page_display.php:124
+msgid "License Key"
+msgstr "Лицензионный ключ"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1168
+msgid "Facebook Ads"
+msgstr "Facebook Ads"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1003
+msgid "No"
+msgstr "Нет"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1002
+msgid "Yes"
+msgstr "Да"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1195
+msgid "Add the following string to the end of your page URL to display the content:"
+msgstr "Добавьте следующую строку в конце URL страницы, чтобы отобразить содержимое:"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:928
+msgid "Stop displaying content from:"
+msgstr "Завершить показ с:"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:626
+msgid "Start displaying content from:"
+msgstr "Начать показывать с:"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:546
+msgid "33% of the sessions"
+msgstr "33% сессий"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:456
+msgid "Select a Condition"
+msgstr "Выберите условие"
+
+#: includes/class-if-so-license.php:59
+#: services/license-ajax-service/license-ajax-service.class.php:36
+#: services/license-service/geo-license-service.class.php:76
+#: services/license-service/license-service.class.php:75
+msgid "An error occurred, please try again."
+msgstr "Возникла ошибка, попробуйте ещё раз."
+
+#: admin/partials/ifso_license_page_display.php:69
+#: admin/partials/ifso_license_page_display.php:144
+msgid "Active"
+msgstr "Активен"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:921
+#: admin/partials/ifso_trigger_settings_metabox.php:936
+msgid "Click to pick a Date"
+msgstr "Кликните для выбора даты"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:584
+msgid "Schedule"
+msgstr "Запланировать"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:583
+msgid "Start/End Date"
+msgstr "Дата начала/окончания"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:459
+msgid "Device"
+msgstr "Устройство"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1455
+msgid "None"
+msgstr "Нет"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1200
+msgid "Add the following parameter at the end of the page URL"
+msgstr "Добавьте следующий параметр в конце URL-адреса страницы"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1197
+#: admin/partials/ifso_trigger_settings_metabox.php:1202
+msgid "I.e., www.url.com?ifso=your-query-string"
+msgstr "Напр., www.url.com?ifso=your-query-string"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:539
+msgid "Common Referrers"
+msgstr "Распространенные реферреры"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:536
+msgid "URL"
+msgstr "URL"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:466
+msgid "Referral Source"
+msgstr "Реферер источника"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:969
+msgid "Browser Language"
+msgstr "Язык браузера"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1031
+msgid "Choose no. of visits"
+msgstr "Выберите кол-во. Визитов"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1019
+msgid "First Visit"
+msgstr "Первый визит"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1014
+msgid "Show this content after:"
+msgstr "Показывать это содержимое после:"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:462
+msgid "User Behavior"
+msgstr "Поведение пользователя"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:965
+msgid "New Visitor"
+msgstr "Новый посетитель"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:967
+msgid "Returning Visitor"
+msgstr "Повторное посещение"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1021
+msgid "3 Visits"
+msgstr "3 визит"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1020
+msgid "2 Visits"
+msgstr "2 визит"
+
+#: extensions/privacy-policy/privacy-policy.php:7
+msgid "If-So Dynamic Content"
+msgstr "If-So динамическое содержимое"
+
+#: admin/class-if-so-admin.php:80 admin/class-if-so-settings.php:193
+msgid "Add New Trigger"
+msgstr "Добавить новый триггер"
+
+#: admin/class-if-so-admin.php:81
+msgid "Edit Trigger"
+msgstr "Редактировать триггер"
+
+#: admin/class-if-so-admin.php:82
+msgid "New Trigger"
+msgstr "Новый триггер"
+
+#: admin/class-if-so-admin.php:83
+msgid "All Triggers"
+msgstr "Все триггеры"
+
+#: admin/class-if-so-admin.php:84
+msgid "View Trigger"
+msgstr "Просмотреть триггер"
+
+#: admin/class-if-so-admin.php:85
+msgid "Search Triggers"
+msgstr "Поиск триггеров"
+
+#: admin/class-if-so-admin.php:86
+msgid "No Triggers found"
+msgstr "Триггеров не найдено"
+
+#: admin/class-if-so-admin.php:87
+msgid "No Triggers found in the Trash"
+msgstr "Триггеров в корзине не найдено"
+
+#: admin/class-if-so-settings.php:180
+msgid "If So"
+msgstr "If So"
+
+#: admin/class-if-so-settings.php:266
+msgid "Title"
+msgstr "Заголовок"
+
+#: admin/class-if-so-settings.php:267
+msgid "Triggers"
+msgstr "Триггеры"
+
+#: admin/class-if-so-settings.php:268 admin/class-if-so-settings.php:369
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: admin/class-if-so-settings.php:279
+#: admin/partials/ifso_geo_page_display.php:1154
+msgid "Date"
+msgstr "Дата"
+
+#: admin/class-if-so-settings.php:360
+msgid "Trigger settings"
+msgstr "Параметры триггера"
+
+#: admin/partials/ifso_shortcode_display_metabox.php:17
+msgid "Or"
+msgstr "Или"
+
+#: admin/partials/ifso_shortcode_display_metabox.php:18
+msgid "PHP code to paste in your template"
+msgstr "PHP код для вставки в шаблон"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: if-so.php
+msgid "http://www.if-so.com/"
+msgstr "http://www.if-so.com/"
+
+#. Author of the plugin
+#: if-so.php
+msgid "If So Plugin"
+msgstr "Плагин If So"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1209
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1208
+msgid "Google"
+msgstr "Google"
+
+#: admin/class-if-so-admin.php:79
+msgctxt "if-so"
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: admin/class-if-so-admin.php:78
+msgctxt "if-so"
+msgid "Trigger"
+msgstr "Триггер"
+
+#: admin/class-if-so-admin.php:77
+msgctxt "if-so"
+msgid "Triggers"
+msgstr "Триггеры"
+
+#: admin/class-if-so-settings.php:353
+#: admin/partials/ifso_trigger_settings_metabox.php:1754
+msgid "Publish"
+msgstr "Опубликовать"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1754
+msgid "Update"
+msgstr "Обновить"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1707
+msgid "Add Another Version"
+msgstr "Добавить ещё вариант"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1723
+msgid "want to display anything by default"
+msgstr "хотите отображать что-либо по умолчанию"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1723
+msgid "do not"
+msgstr "не"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1723
+msgid "Leave this blank if you"
+msgstr "Оставьте пустым если вы"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1723
+msgid "Default content appears when none of the conditions are met."
+msgstr "Содержимое по умолчанию появляется, когда ни одно из условий не выполнено."
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1721
+msgid "Default Content"
+msgstr "Содержимое по умолчанию"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1189
+msgid "https://your-referrer.com"
+msgstr "https://your-referrer.com"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:718
+#: admin/partials/ifso_trigger_settings_metabox.php:1161
+#: admin/partials/ifso_trigger_settings_metabox.php:1221
+msgid "URL Does Not Contain"
+msgstr "Url не содержит"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:717
+#: admin/partials/ifso_trigger_settings_metabox.php:1160
+#: admin/partials/ifso_trigger_settings_metabox.php:1220
+msgid "URL Is Not"
+msgstr "Url не"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:716
+#: admin/partials/ifso_trigger_settings_metabox.php:1159
+#: admin/partials/ifso_trigger_settings_metabox.php:1219
+msgid "URL Contains"
+msgstr "Url содержит"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1157
+#: admin/partials/ifso_trigger_settings_metabox.php:1217
+#: admin/partials/ifso_trigger_settings_metabox.php:1228
+msgid "Choose an operator"
+msgstr "Выберите оператор"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1153
+msgid "Url"
+msgstr "Url"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:958
+msgid "Max no. of sessions"
+msgstr "Максимальное кол-во. Сессий"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:566
+msgid "2000 Sessions"
+msgstr "2000 сессий"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:565
+msgid "1000 Sessions"
+msgstr "1000 сессий"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:564
+msgid "500 Sessions"
+msgstr "500 сессий"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:563
+msgid "200 Sessions"
+msgstr "200 сессий"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:562
+msgid "100 Sessions"
+msgstr "100 сессий"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:561
+msgid "Unlimited"
+msgstr "Неограниченно"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:549
+msgid "75% of the sessions"
+msgstr "75% сессий"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:545
+msgid "25% of the sessions"
+msgstr "25% сессий"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:547
+msgid "50% of the sessions"
+msgstr "50% сессий"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:567
+#: admin/partials/ifso_trigger_settings_metabox.php:1023
+msgid "Custom"
+msgstr "Произвольно"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:537
+msgid "Page on your website"
+msgstr "Страница на вашем сайте"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:535
+msgid "Choose a Referrer"
+msgstr "Выберите рефери"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:454
+msgid "Trigger"
+msgstr "Триггер"
+
+#: admin/class-if-so-admin.php:211
+msgid "It is not possible to create two query strings with the same name. If you publish now, the second version will be deleted."
+msgstr "Невозможно создать две строки запроса с одинаковыми именами. Если вы опубликуете триггер, его вторая версия будет удалена."
+
+#: admin/class-if-so-admin.php:209
+#: admin/partials/ifso_analytics_display_metabox.php:152
+#: admin/partials/ifso_trigger_settings_metabox.php:407
+msgid "Version"
+msgstr "Вариант"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:480
+msgid "A/B Testing"
+msgstr "A/B тестирование"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:555
+msgid "Optional"
+msgstr "Опционально"
+
+#: admin/partials/ifso_trigger_settings_metabox.php:1190
+msgid "Name your query string"
+msgstr "Назовите строку запроса"

@@ -1,0 +1,5 @@
+2024-04-16T12:51:09+00:00 NOTICE webhooks :: Ran plugin updater
+2024-04-16T13:16:12+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 207
+2024-04-16T13:16:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 206
+2024-04-16T13:17:55+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 219
+2024-04-16T13:18:16+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 217
